@@ -1,17 +1,25 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>hoanghn1 3.02mb
-入力可能文字数
-入力可能文字数55555
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
-入力可能文字数
- </title>
-	<pubDate>2020-06-25T03:02:00+09:00</pubDate>
+	<title>fb1</title>
+	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
 	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-		<img alt="" src="https://www.satsignal.eu/wxsat/Meteosat7-full-scan.jpg" />
+		<img alt="" src="http://pub208.dev13.local/rss/images/image_path_1h520200625182734.jpg" />
+	]]></content:encoded>
+</item>
+<item>
+	<title>fb4</title>
+	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
+	<author>荒川区Facebook</author>
+	<content:encoded><![CDATA[
+		<img alt="" src="http://pub208.dev13.local/rss/images/image_path_1file_example_PNG_3MB20200625182730.png" />
+	]]></content:encoded>
+</item>
+<item>
+	<title>Facebook</title>
+	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
+	<author>荒川区Facebook</author>
+	<content:encoded><![CDATA[
+		<img alt="" src="http://pub208.dev13.local/rss/images/image_path_1dg_160519_du-lich-da-nang20200625182714.jpg" />
 	]]></content:encoded>
 </item>
 </channel></rss>
